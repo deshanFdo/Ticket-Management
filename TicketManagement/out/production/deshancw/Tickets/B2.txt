@@ -1,0 +1,8 @@
+Ticket Information : 
+
+Row: B		Seat: 2		Price: £200.0
+Passenger Information : 
+
+Name: asd
+Surname: asd
+Email: asd

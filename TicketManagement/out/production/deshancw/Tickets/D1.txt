@@ -1,0 +1,7 @@
+Ticket Information : 
+
+Row: D		Seat: 1		Price: £200.0
+Passenger Information : 
+Name: asd
+Surname: asdas
+Email: asdfas
